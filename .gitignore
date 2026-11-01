@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+cache/
+data/
+doc/*.aux
+doc/*.log
+doc/*.out
+doc/*.bbl
+doc/*.blg

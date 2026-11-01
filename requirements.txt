@@ -1,0 +1,7 @@
+spacy
+requests
+trafilatura
+transformers
+torch
+scikit-learn
+pytest
